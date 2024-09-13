@@ -22,6 +22,11 @@ categories: # search tags to filter this data source
   - annual
 ---
 
+```{r}
+source("theme_health_radar.R")   # source in the theme functions
+```
+
+
 ## About the data
 
 ## Accessing the data
