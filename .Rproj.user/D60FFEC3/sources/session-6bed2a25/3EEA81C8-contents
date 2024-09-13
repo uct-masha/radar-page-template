@@ -1,0 +1,35 @@
+---
+title: "Data source title"
+description: "Short description of data source"
+date: 09/12/2024 # mm-dd-yyyy
+image: "images/logo_masha.png"  # descriptive image for thumbnail (logo works if it exists)
+lightbox: true 
+execute:
+  message: false
+  warning: false
+
+language: 
+  title-block-published: "Last updated"
+  
+page-layout: full
+title-block-banner: "#EDF3F9"
+title-block-banner-color: "#212529"
+categories: # search tags to filter this data source
+  - malaria
+  - epidemiology
+  - interventions
+  - country-level
+  - annual
+---
+
+## About the data
+
+## Accessing the data
+
+## What does the data look like?
+
+## How to use this data?
+
+## How to plot this data?
+
+## Key points to consider
