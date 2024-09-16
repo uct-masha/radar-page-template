@@ -23,6 +23,8 @@ categories: # search tags to filter this data source
 ---
 
 ```{r}
+#| echo: false
+
 source("theme_health_radar.R")   # source in the theme functions
 ```
 
